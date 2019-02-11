@@ -1,2 +1,5 @@
-# flatironschool_datascience
-repo for all things related to my work teaching data science at the Flatiron School
+# online-ds-021119
+
+| **Module**   | **Section** | **Topic** | **Video - FULL TIME** | **Video - PART TIME** |
+| ---------- | ------- | --------------- | ---------------------------- |
+| -         | -       | Cohort Orientation | [Cohort Orientation](https://youtu.be/-GltRwac6zw) | [Cohort Orientation]() |
