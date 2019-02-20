@@ -7,4 +7,4 @@
 | 1          | 3           | Series vs DataFrames | [Series vs DataFrames](https://youtu.be/QaaK6bOVgKo) | [Series vs DataFrames](https://youtu.be/DTVjtn_kmQ8) 
 | 1          | 4           | Functions & Methods for Data Cleaning | [Functions & Methods for Data Cleaning](https://youtu.be/LZvQOfrYAZI) | [Data Types & Data Structures]() 
 | 1          | 5           | Get Into SQL! | [Get Into SQL!](https://youtu.be/-C5JvcCsvwg) | [Get Into SQL!]() 
-| 1          | 6           | Object Oriented Programming | [Object Oriented Programming]() | [Object Oriented Programming]() 
+| 1          | 6           | Object Oriented Programming | [Object Oriented Programming](https://youtu.be/pN4BgBb2NrU) | [Object Oriented Programming]() 
