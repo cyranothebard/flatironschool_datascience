@@ -22,4 +22,4 @@
 | 2          | 17           | Accessing Data Through APIs | [Accessing Data Through APIs](https://youtu.be/VpTXSsgI5lE) | [Accessing Data Through APIs]()
 | 2          | 18           | HTML, CSS & Web Scraping | [HTML, CSS & Web Scraping](https://youtu.be/6CnMbns5j4s) | [HTML, CSS & Web Scraping]()
 | 2          | 19           | Distributions & Sampling | [Distributions & Sampling](https://youtu.be/czA__xdRywM) | [Distributions & Sampling]()
-| 2          | 20           | Hypothesis & A/B Testing | [Hypothesis & A/B Testing]() | [Hypothesis & A/B Testing]()
+| 2          | 20           | Hypothesis & A/B Testing | [Hypothesis & A/B Testing](https://youtu.be/UsU2h73CjoU) | [Hypothesis & A/B Testing]()
