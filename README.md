@@ -25,7 +25,7 @@
 | 2          | 20           | Hypothesis & A/B Testing | [Hypothesis & A/B Testing](https://youtu.be/UsU2h73CjoU) | [Hypothesis & A/B Testing]()
 | 2          | 21           | Combinatorics & Maximum Liklihood Estimation | [Combinatorics & Maximum Liklihood Estimation](https://youtu.be/C9wao6q1FmA) | [Combinatorics & Maximum Liklihood Estimation]()
 | 2          | 22           | Bayesian Classification | [Bayesian Classification](https://youtu.be/CDYZgB73reI) | [Bayesian Classification]()
-| 2          | 23           | Resampling & Monte Carlo Simulation | [Resampling & Monte Carlo Simulation](https://youtu.be/UBtte80oKtQ) | Resampling & Monte Carlo Simulation]()
+| 2          | 23           | Resampling & Monte Carlo Simulation | [Resampling & Monte Carlo Simulation](https://youtu.be/UBtte80oKtQ) | [Resampling & Monte Carlo Simulation]()
 | 3          | 24           | Extensions to Linear Models | [Extensions to Linear Models](https://youtu.be/0O05GTr_W3w) | [Extensions to Linear Models]()
 | 3          | 25           | Time Series Visualization & Trend Testing | [Time Series Visualization & Trend Testing](https://youtu.be/P1qx1Qyuoio) | [Time Series Visualization & Trend Testing]()
 | 3          | 26           | Time Series Modeling | [Time Series Modeling](https://youtu.be/aSc_gVR2Jso) | [Time Series Modeling]()
