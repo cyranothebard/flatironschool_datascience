@@ -48,3 +48,5 @@
 | 4          | 42           | Regularization & Optimization | [Regularization & Optimization](https://youtu.be/9Vd8C8et4ro) | [Regularization & Optimization]()
 | 4          | 43           | Intro to CNN | [Intro to CNN](https://youtu.be/JW6ATu6qPm0) | [Intro to CNN]()
 | 4          | 44           | CNN's | [CNN's Continued - Using Pre-trained Networks](https://youtu.be/caxpmCBuGP4) | [CNN's Continued - Using Pre-trained Networks]()
+| 4          | 45           | Deep NLP, Word Embeddings | [Deep NLP, Word Embeddings](https://youtu.be/O3yA4gCZsxY) | [Deep NLP, Word Embeddings]()
+| 4          | 46           | Deep NLP, Sequence Models | [Deep NLP, Sequence Models](https://youtu.be/5prmWSKrwOI) | [Deep NLP, Sequence Models]()
