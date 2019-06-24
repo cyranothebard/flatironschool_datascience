@@ -52,3 +52,4 @@
 | 4          | 46           | Deep NLP, Sequence Models | [Deep NLP, Sequence Models](https://youtu.be/5prmWSKrwOI) | [Deep NLP, Sequence Models]()
 | -          | Supplementary| Distributed Computing | [Distributed Computing](https://youtu.be/YKndI-HwA90) | [Distributed Computing]()
 | -          | Supplementary| Web Scraping 202 | [Web Scraping 202](https://youtu.be/kWcLEqVr2l8) | [Web Scraping 202]()
+| V2/4       | 16| Alternate Database Structures | [Alternate Database Structures](https://youtu.be/kWcLEqVr2l8) | [Alternater Database Structures](https://youtu.be/u9rHgWXVvBA)
