@@ -50,3 +50,5 @@
 | 4          | 44           | CNN's | [CNN's Continued - Using Pre-trained Networks](https://youtu.be/caxpmCBuGP4) | [CNN's Continued - Using Pre-trained Networks]()
 | 4          | 45           | Deep NLP, Word Embeddings | [Deep NLP, Word Embeddings](https://youtu.be/O3yA4gCZsxY) | [Deep NLP, Word Embeddings]()
 | 4          | 46           | Deep NLP, Sequence Models | [Deep NLP, Sequence Models](https://youtu.be/5prmWSKrwOI) | [Deep NLP, Sequence Models]()
+| -          | Supplementary| Distributed Computing | [Distributed Computing](https://youtu.be/YKndI-HwA90) | [Distributed Computing]()
+| -          | Supplementary| Web Scraping 202 | [Web Scraping 202](https://youtu.be/kWcLEqVr2l8) | [Web Scraping 202]()
