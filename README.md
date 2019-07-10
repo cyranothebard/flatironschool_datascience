@@ -29,7 +29,7 @@
 | 3          | 24           | Extensions to Linear Models | [Extensions to Linear Models]() | [Extensions to Linear Models](https://youtu.be/AUsuYhdRLac)
 | 3          | 25           | Time Series Visualization & Trend Testing | [Time Series Visualization & Trend Testing](https://youtu.be/P1qx1Qyuoio) | [Time Series Visualization & Trend Testing](https://youtu.be/Sg70vALNadQ)
 | 3          | 26           | Time Series Modeling | [Time Series Modeling](https://youtu.be/aSc_gVR2Jso) | [Time Series Modeling](https://youtu.be/W9LE3T1tpZs)
-| 3          | 27           | Distance Metrics & KNN | [Distance Metrics & KNN](https://youtu.be/YQ3sKO4FA2s) | [Distance Metrics & KNN]()
+| 3          | 27           | Distance Metrics & KNN | [Distance Metrics & KNN](https://youtu.be/YQ3sKO4FA2s) | [Distance Metrics & KNN](https://youtu.be/NzcQTpbh8fQ)
 | 3          | 28           | Graph Theory | [Graph Theory]() | [Graph Theory]()
 | 3          | 29           | Introduction to Logistic Regression | [Introduction to Logistic Regression](https://youtu.be/JBTDvRyMxjw) | [Introduction to Logistic Regression]()
 | 3          | 30           | Logistic Regression In-Depth: MLE & Gradient Descent | [Logistic Regression In-Depth: MLE & Gradient Descent]() | [Logistic Regression In-Depth: MLE & Gradient Descent]()
