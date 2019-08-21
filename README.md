@@ -54,4 +54,4 @@
 | -          | Supplementary| Web Scraping 202 | [Web Scraping 202](https://youtu.be/kWcLEqVr2l8) | [Web Scraping 202]()
 | -          | Supplementary| Capstone Review | [Capstone Review](https://youtu.be/xzxqSw05ZbQ) | [Capstone Review]()
 | -          | Supplementary| Visualization with Panel | [Visualization with Panel](https://youtu.be/Z-l00DYUJT8) | [Visualization with Panel]()
-| V2/4       | 16| Alternate Database Structures | [Alternate Database Structures](https://youtu.be/kWcLEqVr2l8) | [Alternater Database Structures](https://youtu.be/u9rHgWXVvBA)
+| V2/4       | 16| Alternate Database Structures | [Alternate Database Structures]() | [Alternater Database Structures](https://youtu.be/u9rHgWXVvBA)
